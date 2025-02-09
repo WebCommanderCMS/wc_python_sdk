@@ -70,8 +70,6 @@ class DTOBase(object):
                     kwargs[key] = cls._load_data_class(field_type, data=value)
                 else:
                     kwargs[key] = value
-            else:
-                print(key)
         return kwargs
 
     @classmethod
