@@ -1,4 +1,3 @@
-Here’s your updated `README.md` with "Exsited" replaced by "Webcommender":  
 
 ```md
 # Webcommender Python SDK
